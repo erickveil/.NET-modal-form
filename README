@@ -1,0 +1,5 @@
+A simple pop-up, modal form for use in .NET GUI applications.
+
+The form uses project settings to share data with its parent because we are in
+a hurry, and want something to work out of the box.
+
